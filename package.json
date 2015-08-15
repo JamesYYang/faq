@@ -1,0 +1,29 @@
+{
+  "name": "faq",
+  "version": "0.0.1",
+  "description": "a faq middleware for express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesYYang/faq.git"
+  },
+  "keywords": [
+    "express",
+    "faq"
+  ],
+  "author": "James.Y.Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesYYang/faq/issues"
+  },
+  "homepage": "https://github.com/JamesYYang/faq#readme",
+  "devDependencies": {
+    "express": "^4.13.3"
+  },
+  "dependencies": {
+    "accepts": "^1.2.12"
+  }
+}
