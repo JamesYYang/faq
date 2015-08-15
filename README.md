@@ -1,8 +1,5 @@
 # faq
 
-[![NPM Version][npm-image]][npm-url]
-[![NPM Downloads][downloads-image]][downloads-url]
-
 faq middleware for express
 
 ## Install
@@ -69,4 +66,4 @@ app.use(faq(faqOption));
 
 ## License
 
-[MIT](LICENSE)
+[MIT]
